@@ -16,9 +16,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.guicedee.services</groupId>
-            <artifactId>apache-poi</artifactId>
-            <version>62</version>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>5.2.3</version>
         </dependency>
     </dependencies>
 
